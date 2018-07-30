@@ -1,0 +1,33 @@
+td {
+    padding:5px
+}
+
+tr{
+
+    padding:20px
+}
+
+.delWindow:hover{
+    cursor:pointer;
+    background:#f6f8fa
+}
+
+.todo{
+    font-weight: bolder;
+    font-size:19px;
+}
+
+.singleDelRender{
+    border: 1px solid grey;
+    padding: 20px;
+    margin: 10px;
+    background: #f6f8fa
+}
+
+.singleDelRenderName{
+
+}
+.singleDelRenderDate{
+    color: grey;
+    font-size: 12px;
+}
